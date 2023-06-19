@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![jhan0121's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhan0121&show_icons=true&theme=tokyonight)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=flinter)](https://solved.ac/flinter)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flinter)](https://solved.ac/flinter/)
+
