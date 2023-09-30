@@ -18,11 +18,11 @@ Here are some ideas to get you started:
  <h2>Introduction</h2>
  안드로이드를 공부중인 학생입니다
 <h2>Studying</h2>
- <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
- <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white"/>
- <img src="https://img.shields.io/badge/android studio-3DDC84?style=flat&logo=android studio&logoColor=white"/>
- <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
- <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+ <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+ <img src="https://img.shields.io/badge/android studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"/>
+ <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
  
 ![jhan0121's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhan0121&show_icons=true&theme=tokyonight)
 
