@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white"/>
  <img src="https://img.shields.io/badge/android studio-3DDC84?style=flat&logo=android studio&logoColor=white"/>
  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
- <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=vscode&logoColor=white"/>
+ <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
  
 ![jhan0121's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhan0121&show_icons=true&theme=tokyonight)
 
