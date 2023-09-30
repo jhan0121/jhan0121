@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-###studying
+<h3>studying</h3>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 
