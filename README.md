@@ -22,5 +22,5 @@ Here are some ideas to get you started:
  
 ![jhan0121's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhan0121&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flinter)](https://solved.ac/flinter/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact)](https://github.com/jhan0121/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhan0121&layout=compact)](https://github.com/jhan0121/github-readme-stats)
 /div>
