@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align=center>
  <h2>Introduction</h2>
- 안드로이드를 공부중인 학생입니다.
+ studying android & backend
 <p>
  
 ![jhan0121's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhan0121&show_icons=true&theme=tokyonight)
