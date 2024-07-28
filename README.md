@@ -1,4 +1,4 @@
-## jhan0121(flinter)'s github
+## flinter(jhan0121)'s github
 
 ### About me 🧑🏻‍💻
 <ul style = "list-style-type:square;">
