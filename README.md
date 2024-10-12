@@ -40,6 +40,7 @@
 	
 ### Baekjoon Solved Rank 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flinter)](https://solved.ac/flinter)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=flinter&theme=cold)](https://solved.ac/flinter)
 
 ### Github Stats 📊
 ![jhan0121(flinter)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jhan0121&show_icons=true&theme=radical)
