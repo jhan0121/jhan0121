@@ -2,8 +2,8 @@
 
 ### About me 🧑🏻‍💻
 <ul style = "list-style-type:square;">
-<li> 수학 & 컴퓨터공학 전공입니다.</li>
-<li> 백엔드(Main) & 안드로이드(Sub)를 공부중입니다.</li>
+<li> 동국대학교 수학 & 컴퓨터공학 전공</li>
+<li> 웹 백엔드 공부중입니다.</li>
 </ul>
 
 <a href="mailto:jhan0121@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jhan0121@gmail.com"/></a>
