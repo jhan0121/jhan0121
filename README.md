@@ -43,3 +43,12 @@
 ![jhan0121(flinter)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jhan0121&show_icons=true&theme=radical)
 
 </div>
+<div>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jhan0121&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jhan0121"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
