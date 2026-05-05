@@ -51,10 +51,4 @@
 ## Github Stats 📊
 ![jhan0121(flinter)'s GitHub stats](https://gh-readme-profile.vercel.app/api?username=jhan0121&theme=transparent)
 
-<br/>
-
-## Baekjoon Solved Rank 🏆
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flinter)](https://solved.ac/flinter)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=flinter&theme=cold)](https://solved.ac/flinter)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8DD8FF&height=100&section=footer" width="100%">
